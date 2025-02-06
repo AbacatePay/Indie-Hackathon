@@ -32,7 +32,7 @@
 
 ### Critérios de Vitória:
 
-Depois de todas apresentações abriremos para votação pública. <br />
+Depois de todas apresentações abriremos para votação pública e dos jurados. <br />
 
 O vencedor será aquele que tiver mais votos.
 
